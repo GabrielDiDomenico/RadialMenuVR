@@ -1,0 +1,7 @@
+Instalar XR Toolkit
+Import Starter Assets
+Import TMP Pro
+Na pasta RadialMenu, arrastar para a cena o prefab RadialMenu
+Configurar as referencias de ação para abrir e fechar o menu, isto está presente no script radialMenu
+Completar todas as referencias necessárias para o script RadialMenuVR
+Configurar a camera para ambos RadialMenuVR e RadialMenuVRArrow (nunca deixar o radialMenuArrow dentro do radialMenuVr)
